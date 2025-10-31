@@ -2,7 +2,7 @@
 
 body{
       background-color: hsl(212, 45%, 89%);
-      font-family: "Outfit";
+      font-family: "Outfit", Arial, Helvetica, sans-serif;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -16,7 +16,7 @@ body{
     align-items: center;
     flex-direction: column ;
     
-    padding: 10px 5px;
+    padding: 1rem;
     border-radius: 20px;
     text-align: center;
     height: 490px;
