@@ -3,8 +3,8 @@
 The challenge consisted of programming and developing a website with a central block containing an image and two types of text.
 ### Links:
 
-- Solucion URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
-
+- Solution URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+-Criation URL: https://lucky14518.github.io/Desafio-qr-code/
 ## My process:
 The process was a bit challenging in terms of learning how to use Figma, but with practice, it was possible to develop the project with relative ease, using the concepts of Flexbox and semantic HTML.
 ### Build with:
@@ -24,5 +24,5 @@ In the future, I plan to master HTML, CSS, and JavaScript, so that I can then ma
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Lucky14518](https://lucky14518.github.io/Desafio-qr-code/)
 - Frontend Mentor - [@Lucky14518](https://www.frontendmentor.io/profile/Lucky14518)
