@@ -17,16 +17,16 @@ body{
     flex-direction: column ;
     
     padding: 10px 5px;
-    border-radius: 5px;
+    border-radius: 20px;
     text-align: center;
-    height: 500px;
+    height: 490px;
     width: 320px;
 
 }
 .parteprincipal img{
 height: 288px;
 width: 288px;
-
+margin-top: 10px;
 border-radius: 6px;
 }
 .parteprincipal h1{
